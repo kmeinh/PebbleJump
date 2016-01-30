@@ -14,8 +14,8 @@
   },
   "resources": {
     "media": [{
-        "name": "PLAYER",
-        "file": "player.png",
+        "name": "PLAYER_CENTER",
+        "file": "PlayerCenter.png",
         "type": "png"
      }]
   }
