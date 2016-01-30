@@ -1,0 +1,22 @@
+{
+  "uuid": "edd1c532-1778-4421-96ad-49b49ef4e8cb",
+  "shortName": "pebble-jump",
+  "longName": "pebble-jump",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [{
+        "name": "PLAYER",
+        "file": "player.png",
+        "type": "png"
+     }]
+  }
+}

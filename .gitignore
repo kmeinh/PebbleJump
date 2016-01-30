@@ -33,3 +33,9 @@
 
 */.DS_Store
 .DS_Store
+
+#Pebble Emulator Stuff
+.lock-waf_darwin_build
+build
+*/build
+*/*/build
